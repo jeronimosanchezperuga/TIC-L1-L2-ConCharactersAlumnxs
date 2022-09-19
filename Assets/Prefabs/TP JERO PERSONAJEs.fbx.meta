@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 77acc1c34c7570646a0c7f9964de16b4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone.003
+    100010: Bone.003_end
+    100012: Bone.004.l
+    100014: Bone.004.r
+    100016: Bone.005.l
+    100018: Bone.005.r
+    100020: Bone.006.l
+    100022: Bone.006.r
+    100024: Bone.007.l
+    100026: Bone.007.r
+    100028: Bone.008.l
+    100030: Bone.008.r
+    100032: Bone.009.l
+    100034: Bone.009.r
+    100036: Bone.010.l
+    100038: Bone.010.l_end
+    100040: Bone.010.r
+    100042: Bone.010.r_end
+    100044: Bone.011.l
+    100046: Bone.011.r
+    100048: Bone.012.l
+    100050: Bone.012.r
+    100052: Bone.013.l
+    100054: Bone.013.r
+    100056: Bone.014.l
+    100058: Bone.014.l_end
+    100060: Bone.014.r
+    100062: Bone.014.r_end
+    100064: Bone.015.l
+    100066: Bone.015.r
+    100068: Bone.016.l
+    100070: Bone.016.r
+    100072: Bone.017.l
+    100074: Bone.017.l_end
+    100076: Bone.017.r
+    100078: Bone.017.r_end
+    100080: Bone.018.l
+    100082: Bone.018.r
+    100084: Bone.019.l
+    100086: Bone.019.r
+    100088: Bone.020.l
+    100090: Bone.020.l_end
+    100092: Bone.020.r
+    100094: Bone.020.r_end
+    100096: Bone.021.l
+    100098: Bone.021.r
+    100100: Bone.022.l
+    100102: Bone.022.r
+    100104: Bone.023.l
+    100106: Bone.023.l_end
+    100108: Bone.023.r
+    100110: Bone.023.r_end
+    100112: Bone.024.l
+    100114: Bone.024.r
+    100116: Bone.025.l
+    100118: Bone.025.r
+    100120: Bone.026.l
+    100122: Bone.026.l_end
+    100124: Bone.026.r
+    100126: Bone.026.r_end
+    100128: Cube
+    100130: //RootNode
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone.003
+    400010: Bone.003_end
+    400012: Bone.004.l
+    400014: Bone.004.r
+    400016: Bone.005.l
+    400018: Bone.005.r
+    400020: Bone.006.l
+    400022: Bone.006.r
+    400024: Bone.007.l
+    400026: Bone.007.r
+    400028: Bone.008.l
+    400030: Bone.008.r
+    400032: Bone.009.l
+    400034: Bone.009.r
+    400036: Bone.010.l
+    400038: Bone.010.l_end
+    400040: Bone.010.r
+    400042: Bone.010.r_end
+    400044: Bone.011.l
+    400046: Bone.011.r
+    400048: Bone.012.l
+    400050: Bone.012.r
+    400052: Bone.013.l
+    400054: Bone.013.r
+    400056: Bone.014.l
+    400058: Bone.014.l_end
+    400060: Bone.014.r
+    400062: Bone.014.r_end
+    400064: Bone.015.l
+    400066: Bone.015.r
+    400068: Bone.016.l
+    400070: Bone.016.r
+    400072: Bone.017.l
+    400074: Bone.017.l_end
+    400076: Bone.017.r
+    400078: Bone.017.r_end
+    400080: Bone.018.l
+    400082: Bone.018.r
+    400084: Bone.019.l
+    400086: Bone.019.r
+    400088: Bone.020.l
+    400090: Bone.020.l_end
+    400092: Bone.020.r
+    400094: Bone.020.r_end
+    400096: Bone.021.l
+    400098: Bone.021.r
+    400100: Bone.022.l
+    400102: Bone.022.r
+    400104: Bone.023.l
+    400106: Bone.023.l_end
+    400108: Bone.023.r
+    400110: Bone.023.r_end
+    400112: Bone.024.l
+    400114: Bone.024.r
+    400116: Bone.025.l
+    400118: Bone.025.r
+    400120: Bone.026.l
+    400122: Bone.026.l_end
+    400124: Bone.026.r
+    400126: Bone.026.r_end
+    400128: Cube
+    400130: //RootNode
+    2100000: Material.001
+    2100002: Material
+    2100004: Material.002
+    2100006: CARA
+    4300000: Cube
+    7400000: Armature|ArmatureAction.002
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CARA
+    second: {fileID: 2100000, guid: 6a51fb4d2aa28d143bac24d946c925ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 7dd63f257bd7df5458f697d6b0603c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 43f043e0f2b79d54a9d585569974f469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: e66565944725ff34da63bd8c4c7f53fa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
