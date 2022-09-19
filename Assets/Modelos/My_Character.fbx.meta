@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 77ee30b0e44e4ba4aa413c8b788ec1f6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Cube
+    100006: Head
+    100008: Head_end
+    100010: LArm 1
+    100012: LArm 2
+    100014: LHand
+    100016: LIndex 1
+    100018: LIndex 2
+    100020: LIndex 3
+    100022: LIndex 3_end
+    100024: LNular 1
+    100026: LNular 2
+    100028: LNular 3
+    100030: LNular 3_end
+    100032: LPointing 1
+    100034: LPointing 2
+    100036: LPointing 3
+    100038: LPointing 3_end
+    100040: LSmall 1
+    100042: LSmall 2
+    100044: LSmall 3
+    100046: LSmall 3_end
+    100048: LThumb 1
+    100050: LThumb 2
+    100052: LThumb 3
+    100054: LThumb 3_end
+    100056: //RootNode
+    100058: Neck
+    100060: Pelvis
+    100062: RArm 1
+    100064: RArm 2
+    100066: RHand
+    100068: RIndex 1
+    100070: RIndex 2
+    100072: RIndex 3
+    100074: RIndex 3_end
+    100076: RNular 1
+    100078: RNular 2
+    100080: RNular 3
+    100082: RNular 3_end
+    100084: RPointing 1
+    100086: RPointing 2
+    100088: RPointing 3
+    100090: RPointing 3_end
+    100092: RSmall 1
+    100094: RSmall 2
+    100096: RSmall 3
+    100098: RSmall 3_end
+    100100: RThumb 1
+    100102: RThumb 2
+    100104: RThumb 3
+    100106: RThumb 3_end
+    100108: Spine
+    100110: Stomach
+    400000: Armature
+    400002: Chest
+    400004: Cube
+    400006: Head
+    400008: Head_end
+    400010: LArm 1
+    400012: LArm 2
+    400014: LHand
+    400016: LIndex 1
+    400018: LIndex 2
+    400020: LIndex 3
+    400022: LIndex 3_end
+    400024: LNular 1
+    400026: LNular 2
+    400028: LNular 3
+    400030: LNular 3_end
+    400032: LPointing 1
+    400034: LPointing 2
+    400036: LPointing 3
+    400038: LPointing 3_end
+    400040: LSmall 1
+    400042: LSmall 2
+    400044: LSmall 3
+    400046: LSmall 3_end
+    400048: LThumb 1
+    400050: LThumb 2
+    400052: LThumb 3
+    400054: LThumb 3_end
+    400056: //RootNode
+    400058: Neck
+    400060: Pelvis
+    400062: RArm 1
+    400064: RArm 2
+    400066: RHand
+    400068: RIndex 1
+    400070: RIndex 2
+    400072: RIndex 3
+    400074: RIndex 3_end
+    400076: RNular 1
+    400078: RNular 2
+    400080: RNular 3
+    400082: RNular 3_end
+    400084: RPointing 1
+    400086: RPointing 2
+    400088: RPointing 3
+    400090: RPointing 3_end
+    400092: RSmall 1
+    400094: RSmall 2
+    400096: RSmall 3
+    400098: RSmall 3_end
+    400100: RThumb 1
+    400102: RThumb 2
+    400104: RThumb 3
+    400106: RThumb 3_end
+    400108: Spine
+    400110: Stomach
+    2100000: Skin.001
+    4300000: Cube
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin.001
+    second: {fileID: 2100000, guid: e038a3a1e99bd3840996d862af8694d1, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Skin
+    second: {fileID: 2800000, guid: 5ba455fd34ec09f41b5c4413bc5fa54d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
