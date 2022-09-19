@@ -213,7 +213,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100048, guid: 5b325a34e281d874bb036aa3a891d562, type: 3}
       propertyPath: m_Name
-      value: personaje definitivo
+      value: Alberto - Lucas Estrada
       objectReference: {fileID: 0}
     - target: {fileID: 400048, guid: 5b325a34e281d874bb036aa3a891d562, type: 3}
       propertyPath: m_LocalPosition.x
