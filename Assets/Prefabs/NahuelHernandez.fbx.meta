@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 795e9e7c1baaae64c8005ffb5995b178
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature.001
+    100002: Bone
+    100004: Bone.001.L
+    100006: Bone.001.R
+    100008: Bone.002.L
+    100010: Bone.002.R
+    100012: Bone.003.L
+    100014: Bone.003.R
+    100016: Bone.004.L
+    100018: Bone.004.L_end
+    100020: Bone.004.R
+    100022: Bone.004.R_end
+    100024: Bone.005.L
+    100026: Bone.005.R
+    100028: Bone.006.L
+    100030: Bone.006.R
+    100032: Bone.007.L
+    100034: Bone.007.R
+    100036: Bone.008.L
+    100038: Bone.008.R
+    100040: Bone.009.L
+    100042: Bone.009.R
+    100044: Bone.010.L
+    100046: Bone.010.L_end
+    100048: Bone.010.R
+    100050: Bone.010.R_end
+    100052: Bone.011.L
+    100054: Bone.011.L_end
+    100056: Bone.011.R
+    100058: Bone.011.R_end
+    100060: Bone.012
+    100062: Bone.013
+    100064: Bone.013_end
+    100066: Bone.014.L
+    100068: Bone.014.L_end
+    100070: Bone.014.R
+    100072: Bone.014.R_end
+    100074: Bone.015.L
+    100076: Bone.015.L_end
+    100078: Bone.015.R
+    100080: Bone.015.R_end
+    100082: Bone.016.L
+    100084: Bone.016.L_end
+    100086: Bone.016.R
+    100088: Bone.016.R_end
+    100090: Cube.002
+    100092: Sphere.003
+    100094: Sphere.004
+    100096: Sphere.005
+    100098: Sphere.012
+    100100: Sphere.013
+    100102: Sphere.014
+    100104: //RootNode
+    400000: Armature.001
+    400002: Bone
+    400004: Bone.001.L
+    400006: Bone.001.R
+    400008: Bone.002.L
+    400010: Bone.002.R
+    400012: Bone.003.L
+    400014: Bone.003.R
+    400016: Bone.004.L
+    400018: Bone.004.L_end
+    400020: Bone.004.R
+    400022: Bone.004.R_end
+    400024: Bone.005.L
+    400026: Bone.005.R
+    400028: Bone.006.L
+    400030: Bone.006.R
+    400032: Bone.007.L
+    400034: Bone.007.R
+    400036: Bone.008.L
+    400038: Bone.008.R
+    400040: Bone.009.L
+    400042: Bone.009.R
+    400044: Bone.010.L
+    400046: Bone.010.L_end
+    400048: Bone.010.R
+    400050: Bone.010.R_end
+    400052: Bone.011.L
+    400054: Bone.011.L_end
+    400056: Bone.011.R
+    400058: Bone.011.R_end
+    400060: Bone.012
+    400062: Bone.013
+    400064: Bone.013_end
+    400066: Bone.014.L
+    400068: Bone.014.L_end
+    400070: Bone.014.R
+    400072: Bone.014.R_end
+    400074: Bone.015.L
+    400076: Bone.015.L_end
+    400078: Bone.015.R
+    400080: Bone.015.R_end
+    400082: Bone.016.L
+    400084: Bone.016.L_end
+    400086: Bone.016.R
+    400088: Bone.016.R_end
+    400090: Cube.002
+    400092: Sphere.003
+    400094: Sphere.004
+    400096: Sphere.005
+    400098: Sphere.012
+    400100: Sphere.013
+    400102: Sphere.014
+    400104: //RootNode
+    2100000: Material
+    2100002: No Name
+    4300000: Cube.002
+    4300002: Sphere.005
+    4300004: Sphere.004
+    4300006: Sphere.003
+    4300008: Sphere.012
+    4300010: Sphere.013
+    4300012: Sphere.014
+    7400000: Armature.001|Armature.001Action.001
+    9500000: //RootNode
+    13700000: Cube.002
+    13700002: Sphere.003
+    13700004: Sphere.004
+    13700006: Sphere.005
+    13700008: Sphere.012
+    13700010: Sphere.013
+    13700012: Sphere.014
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 10f76e235acd0e248b2f8b0c9337bedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 8be95959c23252e42a687a5ab6f246b2, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: imagetexture
+    second: {fileID: 2800000, guid: f1e7485304999fa4fa4c092ccaac843c, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.001|Armature.001Action.001
+      takeName: Armature.001|Armature.001Action.001
+      firstFrame: 252
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
