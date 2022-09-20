@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 5b325a34e281d874bb036aa3a891d562
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Biceps L
+    100004: Biceps L.001
+    100006: Bone
+    100008: Breast L
+    100010: Forearm L
+    100012: Forearm L.001
+    100014: Hips L
+    100016: Index Bend L
+    100018: Index Bend L.001
+    100020: Index End L
+    100022: Index End L.001
+    100024: Index Initial L
+    100026: Index Initial L.001
+    100028: Index Knuckle L
+    100030: Index Knuckle L.001
+    100032: Middle Bend L
+    100034: Middle Bend L.001
+    100036: Middle End L
+    100038: Middle End L.001
+    100040: Middle Initial L
+    100042: Middle Initial L.001
+    100044: Middle Knuckle L
+    100046: Middle Knuckle L.001
+    100048: //RootNode
+    100050: Personaje.002
+    100052: Pinky Bend L
+    100054: Pinky Bend L.001
+    100056: Pinky End L
+    100058: Pinky End L.001
+    100060: Pinky Initial L
+    100062: Pinky Initial L.001
+    100064: Pinky Knuckle L
+    100066: Pinky Knuckle L.001
+    100068: Ribs L
+    100070: Ring Bend L
+    100072: Ring Bend L.001
+    100074: Ring End L
+    100076: Ring End L.001
+    100078: Ring Initial L
+    100080: Ring Initial L.001
+    100082: Ring Knuckle L
+    100084: Ring Knuckle L.001
+    100086: Shoulder L
+    100088: Shoulder L.001
+    100090: Thigh L
+    100092: Thigh L.001
+    100094: Thumb End L
+    100096: Thumb End L.001
+    100098: Thumb Initial L
+    100100: Thumb Initial L.001
+    100102: Thumb Knuckle L
+    100104: Thumb Knuckle L.001
+    100106: Tibia L
+    100108: Tibia L.001
+    100110: Tibia L.002
+    100112: Tibia L.003
+    400000: Armature
+    400002: Biceps L
+    400004: Biceps L.001
+    400006: Bone
+    400008: Breast L
+    400010: Forearm L
+    400012: Forearm L.001
+    400014: Hips L
+    400016: Index Bend L
+    400018: Index Bend L.001
+    400020: Index End L
+    400022: Index End L.001
+    400024: Index Initial L
+    400026: Index Initial L.001
+    400028: Index Knuckle L
+    400030: Index Knuckle L.001
+    400032: Middle Bend L
+    400034: Middle Bend L.001
+    400036: Middle End L
+    400038: Middle End L.001
+    400040: Middle Initial L
+    400042: Middle Initial L.001
+    400044: Middle Knuckle L
+    400046: Middle Knuckle L.001
+    400048: //RootNode
+    400050: Personaje.002
+    400052: Pinky Bend L
+    400054: Pinky Bend L.001
+    400056: Pinky End L
+    400058: Pinky End L.001
+    400060: Pinky Initial L
+    400062: Pinky Initial L.001
+    400064: Pinky Knuckle L
+    400066: Pinky Knuckle L.001
+    400068: Ribs L
+    400070: Ring Bend L
+    400072: Ring Bend L.001
+    400074: Ring End L
+    400076: Ring End L.001
+    400078: Ring Initial L
+    400080: Ring Initial L.001
+    400082: Ring Knuckle L
+    400084: Ring Knuckle L.001
+    400086: Shoulder L
+    400088: Shoulder L.001
+    400090: Thigh L
+    400092: Thigh L.001
+    400094: Thumb End L
+    400096: Thumb End L.001
+    400098: Thumb Initial L
+    400100: Thumb Initial L.001
+    400102: Thumb Knuckle L
+    400104: Thumb Knuckle L.001
+    400106: Tibia L
+    400108: Tibia L.001
+    400110: Tibia L.002
+    400112: Tibia L.003
+    2100000: Plastic
+    2100002: purple
+    2100004: Material.002
+    2100006: Material.005
+    2100008: purple.001
+    2100010: Material
+    2100012: Personaje
+    2100014: Eyebrow
+    4300000: Personaje.002
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Personaje.002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_CarbonFiber_1K_albedo
+    second: {fileID: 2800000, guid: 33df4a83b2d908b408a1d10d37c44376, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_CarbonFiber_1K_metallic
+    second: {fileID: 2800000, guid: 9568702a2772c0e4f9053454742d2684, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_CarbonFiber_1K_roughness
+    second: {fileID: 2800000, guid: 7412ea20eeb95944f9aa8dd65bd13db1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_Polymer_512_albedo
+    second: {fileID: 2800000, guid: b5e9490d49a76504ea8d630f1fd42c73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_Polymer_512_roughness
+    second: {fileID: 2800000, guid: b3c311afd21785b4d887e98b092efe3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_Shiny_1K_albedo
+    second: {fileID: 2800000, guid: 845ff511419f7364d8c58e08283a3393, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Plastic_Shiny_1K_roughness
+    second: {fileID: 2800000, guid: cd895ddbb68d7df4d8a4cf08ddc96b45, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
